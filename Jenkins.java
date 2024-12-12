@@ -1,6 +1,6 @@
 
 public class Jenkins {
     public static void main(String[] args) {
-      System.out.println("Hello, World! this is the version: v1");
+      System.out.println("Hello, World! this is the version: v2");
   }
 }
